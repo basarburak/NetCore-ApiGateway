@@ -1,6 +1,8 @@
 # NetCore-ApiGateway
 <b> #Product Api  </b>  <br>
-  /localhost:5000/api/category?api-version=1.0  
+  /localhost:5000/api/v1.0/category <br>
+  /localhost:5000/api/v2.0/category
 
 <b> #Ocelot Api Gateway </b> <br>
-/localhost:9000/api/v2/category
+/localhost:9000/v1/category <br>
+/localhost:9000/v2/category
